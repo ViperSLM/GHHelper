@@ -1,6 +1,6 @@
 # GH Helper Script
 This is a Windows Batch-based utility to help assist with mod development for Guitar Hero World Tour. In it's current form,
-it is focused on custom venue mod development as well as compiling node script and/or converting script syntaxes. *(ROQ -> QBC)*
+it is focused on custom venue mod development as well as compiling node scripts and/or converting script syntaxes. *(ROQ -> QBC)*
 
 # How to use
 In order to fully use this script, you'll also need GHSDK and it's prerequisites set up on your computer, especially Node.JS.
