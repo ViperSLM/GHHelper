@@ -8,8 +8,7 @@ Please make sure that Node.JS is also set up in your system's PATH variable. (Sh
 
 Running the batch script the first time will go through it's initial setup where you'll need to set up some variables.
 These variables are then stored inside a configuration file (gh_helper.cfg), which the script then loads the next time it
-is started, as long as it's in the same directory as the script. You can also easily modify settings just by editing this file.
-a text editor.
+is started, as long as it's in the same directory as the script. You can also easily modify settings just by editing this file with a text editor.
 
 ***What each variable is used for:***
 - **GHSDK:** The full path where GHSDK is located
